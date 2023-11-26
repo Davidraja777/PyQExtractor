@@ -1,0 +1,1 @@
+([('qtocode', '/Users/davidraja/Desktop/qtocode/dist/qtocode', 'EXECUTABLE')],)
